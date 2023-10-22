@@ -88,18 +88,18 @@ const Footer = () => {
                     
                     <li>
                       <a
-                        href="#howitworks"
+                        href="https://developers.contrib.com"
                         className="inline-block hover:text-primary mb-3"
                       >
-                        How it Works
+                        Submit an App
                       </a>
                     </li>
                     <li>
                       <a
-                        href="/betapply"
+                        href="/join"
                         className="inline-block hover:text-primary mb-3"
                       >
-                        Apply
+                        Join Bounty Challenge
                       </a>
                     </li>
                     
@@ -143,7 +143,7 @@ const Footer = () => {
                         href="https://contrib.com/to/Bountychallenge.com"
                         className="inline-block hover:text-primary mb-3"
                       >
-                        Contribute to Bountychallenge
+                        Finish simple tasks and earn tokens
                       </a>
                     </li>
                     <li>

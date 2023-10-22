@@ -3,7 +3,7 @@ Bountychallenge.com is an innovative platform that brings together developers, c
 
 # Bountychallenge.com
 
-![Project Logo]([link-to-your-logo.png](https://vnoclogos.s3-us-west-1.amazonaws.com/logo-bountychallenge-onwhite.png))
+![Project ]([https://vnoclogos.s3-us-west-1.amazonaws.com/logo-bountychallenge-onwhite.png])
 
 Bountychallenge.com is a platform where you can find exciting open-source projects and bounties related to VNOC domains. Whether you're a seasoned developer or just getting started, you can browse projects, contribute your skills, and earn rewards.
 
@@ -43,4 +43,11 @@ To use Bountychallenge.com, you'll need:
 
 ```bash
 git clone https://github.com/maidabarrientos/bountychallenge.git
+
+2. Navigate to the project directory:
+
+```bash
+cd bountychallenge
+
+
 
