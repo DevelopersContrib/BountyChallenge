@@ -54,8 +54,11 @@ const Betaform = () => {
               className="animate_top w-full md:w-3/5 lg:w-3/4 shadow-solid-8 rounded-lg bg-white dark:bg-black dark:border dark:border-strokedark p-7.5 xl:p-15"
             >
               <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle2 font-semibold mb-15">
-                Get A Beta Access
+              Join the Bounty Challenge Community
+
               </h2>
+              <p>Welcome to Bounty Challenge, where developers, creators, and open-source enthusiasts come together to make a difference in the world of technology. Join our community and become a part of something bigger.
+              </p>
               <HubspotContactForm />
           
             </motion.div>
@@ -79,7 +82,7 @@ const Betaform = () => {
               className="animate_top w-full md:w-2/5 lg:w-[45%] md:p-7.5 xl:pt-15"
             >
               <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle2 font-semibold mb-7.5">
-              Why Join Our Beta?
+              Why Join Us?
 
               </h2>
               <div className="flex -space-x-1 overflow-hidden">
@@ -94,28 +97,32 @@ const Betaform = () => {
                     <svg className="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                     </svg>
-                    <span><b>Early Access:</b>Get a head start and access our platform before anyone else.
+                    <span>
+                    <b>🌟 Impactful Contributions:</b>Your skills and passion can make a real impact. Contribute to open-source projects that matter.
                     </span>
                 </li>
                 <li className="flex items-center space-x-3">
                     <svg className="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                     </svg>
-                    <span><b>Direct Influence:</b> Your feedback will help shape the future of domain and trademark management.
+                    <span>
+                    <b>🚀 Collaborate with An Inclusive Code Community: </b>Work alongside talented developers and creators from around the globe. Collaborative problem-solving and knowledge-sharing are at the core of our community.
                     </span>
                 </li>
                 <li className="flex items-center space-x-3">
                     <svg className="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                     </svg>
-                    <span><b>Exclusive Features:</b> Explore our cutting-edge features available only to beta users
+                    <span>
+                    <b>💡 Innovation at Its Best: </b>Be part of groundbreaking projects and explore the latest technologies. We're always pushing the boundaries of what's possible
                     </span>
                 </li>
                 <li className="flex items-center space-x-3">
                     <svg className="flex-shrink-0 w-3.5 h-3.5 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/>
                     </svg>
-                    <span><b>Priority Support: </b>Enjoy dedicated support to assist you throughout your beta journey.
+                    <span>
+                    <b>🌐 Global Network:</b>Connect with like-minded individuals from diverse backgrounds. Our global network opens doors to new opportunities and friendships.
                     </span>
                 </li>
               </ul>  

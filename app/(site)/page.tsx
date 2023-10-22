@@ -18,8 +18,8 @@ import Integration from "@/components/Integration";
 
 
 export const metadata: Metadata = {
-  title: "The Leading Blockchain Venture Platform for Digital Assets",
-  description: "Your Next Gen Digital Asset Platform"
+  title: "BountyChallenge - Create a Bounty or Join a Challenge on the Blockchain",
+  description: "Join. Contribute. Build. Get Rewarded with Bounty Challenge."
   // other metadata
 };
 

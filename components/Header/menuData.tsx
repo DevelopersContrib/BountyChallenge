@@ -15,9 +15,9 @@ const menuData: Menu[] = [
   },
   {
     id: 3,
-    title: "Be A Part of Our Team",
+    title: "Docs",
     newTab: false,
-    path: "https://domaindirectory.com/servicepage/?domain=bountychallenge.com"
+    path: "/docs"
   }  
 ];
 

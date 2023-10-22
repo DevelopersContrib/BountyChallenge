@@ -13,6 +13,7 @@ module.exports = {
   theme: {
     fontFamily: {
       inter: ["Inter", "sans-serif"],
+      ibm: ["IBM Plex Mono","monospace"],
            
       
     },
@@ -31,7 +32,7 @@ module.exports = {
       blackho: "#2C3149",
       blacksection: "#1C2136",
       primary: "#000814",
-      primaryho: "#001d3d",
+      primaryho: "#5271ff",
       primarythree: "#ff0000",
       primaryfour: "#ffc300",
       primaryfive: "#ffd60a",

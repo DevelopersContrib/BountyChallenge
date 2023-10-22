@@ -39,17 +39,17 @@ const Header = () => {
         <div className="w-full lg:w-1/4 flex items-center justify-between">
           <a href="/">
             <Image
-              src="/images/logo/logo-bountychallenge.svg"
+              src="/images/logo/logo-bountychallenge-onblack.svg"
               alt="Bounty Challenge"
-              width={119.03}
-              height={30}
+              width={125.03}
+              height={40}
               className="w-full hidden dark:block"
             />
             <Image
-              src="/images/logo/logo-bountychallenge.svg"
+              src="/images/logo/logo-bountychallenge-onwhite.svg"
               alt="BountyChallenge"
-              width={119.03}
-              height={30}
+              width={125.03}
+              height={40}
               className="w-full dark:hidden"
             />
           </a>
@@ -110,7 +110,7 @@ const Header = () => {
                     <>
                       <a
                         onClick={() => setDropdownToggler(!dropdownToggler)}
-                        className="hover:text-primary flex items-center justify-between gap-3 cursor-pointer"
+                        className="hover:text-alabaster flex items-center justify-between gap-3 cursor-pointer"
                       >
                         {menuItem.title}
                         <span>
@@ -157,10 +157,10 @@ const Header = () => {
            
 
             <Link
-              href="/betaapply" target="_blank"
+              href="/contrib" target="_blank"
               className="flex items-center justify-center bg-primary hover:bg-primaryho ease-in-out duration-300 text-white text-regular rounded-full py-2.5 px-7.5"
             >
-              Apply for Beta Access 🔥
+              Join Us 🔥
             </Link>
           </div>
         </div>

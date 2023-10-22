@@ -11,6 +11,13 @@ import "../globals.css";
 
 import ToasterContext from "../context/ToastContext";
 
+/**
+ * Renders the root layout for the application.
+ *
+ * @param {Object} props - The properties object.
+ * @param {React.ReactNode} props.children - The children components to render.
+ * @return {JSX.Element} The root layout component.
+ */
 export default function RootLayout({
   children,
 }: {
@@ -20,9 +27,9 @@ export default function RootLayout({
     <html lang="eng">
       <body className={`dark:bg-black`}>
         <ThemeProvider
-          enableSystem={false}
+          enableSystem={true}
           attribute="class"
-          defaultTheme="light"
+          defaultTheme="dark"
         >
 
             <Lines />

@@ -31,7 +31,7 @@ const AboutPage = () => {
                   <div  className="py-3 sm:py-4">
                      <img
                         src="/images/about/4.svg"
-                        alt="Welcome to bountychallenge"
+                        alt="Welcome to BountyChallenge"
                          className="w-full rounded-2xl"
                         />
                   </div>
@@ -640,14 +640,7 @@ const AboutPage = () => {
                Our vision is to usher in a new era where digital services operate autonomously, seamlessly interact, and adapt nimbly to ever-changing environments. We stand at the forefront of the crypto-native, decentralized movement, where our mission is to empower individuals and businesses alike with innovative solutions that redefine the boundaries of possibility.
 
                </p>
-               <h2
-                   className="mb-5 text-3xl font-bold text-dark dark:text-white sm:text-[40px]/[48px]"
-                  >
-                  Ant Philosophy
-               </h2>
-               <p  className="mb-8 text-base text-body-color dark:text-dark-6">
-               Much like the ants, we embrace an ethos of continual improvement and collaboration. Our AI-based agents are not stagnant entities but dynamic learners, adaptors, and enhancers of their own capabilities. They epitomize efficiency and versatility, harnessing the power of cooperative efforts to achieve shared objectives.
-               </p>
+             
                <p  className="mb-8 text-base text-body-color dark:text-dark-6">
                Join us on this exhilarating journey to reshape the digital landscape. Become a part of bountychallenge, where innovation knows no bounds, and the spirit of collaboration propels us towards a future where the extraordinary becomes the everyday.
                </p>

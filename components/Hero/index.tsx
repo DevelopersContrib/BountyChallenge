@@ -20,21 +20,22 @@ const Hero = () => {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <h4 className="text-black dark:text-white text-lg font-medium mb-4.5 ">
-                🔥 The Blockchain Venture Platform for Digital Assets
+                🔥 Contribute. Build. Get Rewarded.
               </h4>
               <h1 className="bg-gradient-to-r from-txtgrad1 to-black bg-clip-text text-transparent text-5xl xl:text-hero font-bold mb-5 pr-16">
-              Next Gen Digital Asset Platform
+              Unlock Rewards, Ignite Innovation
               </h1>
               <p>
-              Welcome to VNOC – the cutting-edge platform and network that harnesses the power of blockchain technology, premium URL's, innovative business models (eCorp), and connected networks (Contrib) to empower you to build, manage, and monetize your digital assets like never before.
+              Bountychallenge.com is an innovative platform that brings together developers, creators, and enthusiasts to collaborate on exciting GitHub projects while earning rewards. Powered by VNOC Domains, this platform aims to foster a thriving open-source community where contributors are incentivized to build and improve digital solutions.
+
               </p>
 
               <div className="mt-10">
               <Link
-              href="https://apply.vnoc.com/" target="_blank"
+              href="/join" target="_blank"
               className="right-align bg-black hover:bg-primaryho ease-in-out duration-300 text-white text-regular rounded-full py-2.5 px-7.5"
             >
-              Apply Now 🔥
+              Get Started  🔥
             </Link>
 
              
