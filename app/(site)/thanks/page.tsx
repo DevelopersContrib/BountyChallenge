@@ -1,6 +1,6 @@
 import React from "react";
 import { Metadata } from "next";
-import Thanks from "@/components/Hero/thanks";
+import Thanks from "@/components/Hero/contribute";
 
 
 export const metadata: Metadata = {
