@@ -49,12 +49,7 @@ const HeroCenter = () => {
             >
               🚀 Start Contributing
             </Link>
-            <Link
-              href="/docs" target="_blank"
-              className="mt-5 items-center justify-center bg-accent1 hover:bg-primary ease-in-out duration-300 text-bold text-xl sm:text-xl rounded-full py-2.5 px-7.5"
-            >
-             📝 Docs
-            </Link> 
+        
             
         
         </div>
